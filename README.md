@@ -4,8 +4,8 @@
 This is a formative exercise of the Sae institute Geneva.  
 The aim of the exercise was to create a directory  
 
-You can add names of people and their phone number. 
-you can also find a phone number by entering someone's name.  
+You can add names of people and their phone number.  
+You can also find a phone number by entering someone's name.  
 
 Basics element requiered in the program :  
 * Create an ordered directory of students by asking the user to enter surnames, first names, and telephone numbers.  
